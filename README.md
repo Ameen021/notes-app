@@ -1,11 +1,11 @@
-# 📝 Notes App
+# Notes App
 
 A simple and responsive note-taking application built with **HTML**, **CSS**, and **JavaScript**.  
 Notes are stored in the browser using **LocalStorage** — so your notes stay even after refreshing the page!
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add, display, and delete notes
 - Stores notes locally in the browser (no database needed)
@@ -15,13 +15,13 @@ Notes are stored in the browser using **LocalStorage** — so your notes stay ev
 
 ---
 
-## 📺 Live Demo
+## Live Demo
 
 👉  https://ameen021.github.io/notes-app/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -30,7 +30,7 @@ Notes are stored in the browser using **LocalStorage** — so your notes stay ev
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 1. Clone this repository:
    ```bash
